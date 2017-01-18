@@ -1,11 +1,21 @@
-draw_keypoints.py - sift checker and keypoint drawer
+##SIFT , SURF for feature analysis
+ # draw_keypoints.py - sift checker and keypoint drawer
+ # surf.py : speed up robust features 
+ # siftmatch.py 
+ # checker,compare.py :similarity checker with frequency counting 
 
-checker,compare.py :similarity checker with frequency counting 
-
-detect.py,detect2.py :face and eye  detection 
-
-drawing,mplot : playing around with matplotlib
+## Flann
 
 flann.py :similarity checker with fla nearest neighbor algorithm instead of k nearest neighbors 
 
-surf.py : speed up robust features 
+## Face Detection 
+ # att_faces
+ # eigenface
+ # face&eye detection
+ # pyfaces,pyfacesmd
+ # detect.py,detect2.py :face and eye  detection 
+
+## Plotting
+drawing,mplot : playing around with matplotlib
+
+
