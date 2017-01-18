@@ -1,0 +1,13 @@
+http://www.pyimagesearch.com/2015/08/24/resolved-matplotlib-figures-not-showing-up-or-displaying/
+
+import
+matplotlib.back_end()
+
+should be 'tkagg'
+
+cv2.xfeatures2d.SIFT_create()
+
+Traceback (most recent call last):
+  File "siftmatch.py", line 26, in <module>
+    img3 = cv2.drawMatchesKnn(img1,kp1,img2,kp2,good,flags=2)
+TypeError: Required argument 'outImg' (pos 6) not found

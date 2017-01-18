@@ -1,0 +1,14 @@
+python pyfacescontroller.py
+
+In the user interface select an image from the probes directory ,and select the gallery folder
+Enter values for number of eigenfaces to be used and threshold.Click 'Match'
+
+(numofeigenfaces-how many eigenfaces need to be used in matching(shd be less than the number of images (of same extension)in gallery folder.
+threshold-a threshold value that should be the upper limit of euclidean distance between images)
+
+
+Requirements
+python 2.5 or newer
+PIL,Tix
+numpy(works with 1.5.0) 
+
