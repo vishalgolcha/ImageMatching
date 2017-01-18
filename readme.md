@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/sift_keypoints.jpg?raw=true "keypoints")
+![Alt text](sift_keypoints.jpg?raw=true "keypoints")
 
 ##SIFT , SURF for feature analysis
 
