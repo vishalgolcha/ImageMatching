@@ -1,3 +1,5 @@
+![Alt text](relative/path/to/sift_keypoints.jpg?raw=true "keypoints")
+
 ##SIFT , SURF for feature analysis
 
 draw_keypoints.py - sift checker and keypoint drawer
@@ -25,5 +27,7 @@ flann.py :similarity checker with fla nearest neighbor algorithm instead of k ne
 
 ## Plotting
 drawing,mplot : playing around with matplotlib
+
+
 
 
