@@ -13,6 +13,7 @@ checker,compare.py :similarity checker with frequency counting
 
 flann.py :similarity checker with fla nearest neighbor algorithm instead of k nearest neighbors 
 
+![Alt text](fedetection/detected2.jpg?raw=true "keypoints")
 ## Face Detection
 
 -att_faces
