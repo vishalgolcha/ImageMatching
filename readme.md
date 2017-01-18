@@ -11,12 +11,17 @@ checker,compare.py :similarity checker with frequency counting
 
 flann.py :similarity checker with fla nearest neighbor algorithm instead of k nearest neighbors 
 
-## Face Detection 
-att_faces
-eigenface
-face&eye detection
-pyfaces,pyfacesmd
-detect.py,detect2.py :face and eye  detection 
+## Face Detection
+
+-att_faces
+
+-eigenface
+
+-face&eye detection
+
+-pyfaces,pyfacesmd
+
+-detect.py,detect2.py :face and eye  detection 
 
 ## Plotting
 drawing,mplot : playing around with matplotlib
